@@ -1,0 +1,5 @@
+{
+  "name": "CUDA Learning Assistant",
+  "description": "An interactive assistant to help you learn CUDA programming based on the Infatoshi CUDA course.",
+  "requestFramePermissions": []
+}
